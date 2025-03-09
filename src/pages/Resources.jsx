@@ -165,7 +165,7 @@ const resources = [
     title: 'Deep Work: Rules for Focused Success',
     category: 'Productivity',
     type: 'Book Summary',
-    content: 'A summary of Cal Newport's influential book on achieving profound focus and productivity. Learn the concept of deep work—the ability to focus without distraction on cognitively demanding tasks. Discover strategies to eliminate distractions, build concentration, and produce high-quality work in less time. This summary provides actionable techniques to implement deep work in your daily routine.',
+    content: "A summary of Cal Newport's influential book on achieving profound focus and productivity. Learn the concept of deep work—the ability to focus without distraction on cognitively demanding tasks. Discover strategies to eliminate distractions, build concentration, and produce high-quality work in less time. This summary provides actionable techniques to implement deep work in your daily routine.",
     link: '#',
     linkText: 'Read Summary'
   },
