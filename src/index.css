@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-background text-text;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.game-card {
+  @apply bg-surface rounded-xl p-6 shadow-lg hover:shadow-xl transition-all duration-300;
+}
+
+.btn-primary {
+  @apply bg-primary hover:bg-primary/90 text-white font-medium py-2 px-6 rounded-lg transition-all;
+}
+
+.btn-secondary {
+  @apply bg-secondary hover:bg-secondary/90 text-white font-medium py-2 px-6 rounded-lg transition-all;
+}
+
+.level-badge {
+  @apply inline-flex items-center justify-center w-10 h-10 rounded-full text-white font-bold;
+}
+
+.progress-bar {
+  @apply h-2 rounded-full bg-gray-700 overflow-hidden;
+}
+
+.progress-fill {
+  @apply h-full rounded-full transition-all duration-500;
+}
