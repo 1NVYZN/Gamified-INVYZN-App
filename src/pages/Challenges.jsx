@@ -227,7 +227,7 @@ const weeklyChallenges = [
   {
     id: 'w3',
     title: 'Reach Out',
-    description: 'Contact someone you haven't spoken to in a while and have a meaningful conversation.',
+    description: "Contact someone you haven't spoken to in a while and have a meaningful conversation.",
     category: 'Relationships',
     xp: 30,
     steps: ['Old friend/family', 'Deep conversation', 'Active listening']
