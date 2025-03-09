@@ -232,7 +232,7 @@ const discussions = [
     category: 'Productivity',
     author: 'Jason',
     date: '5 days ago',
-    preview: 'Looking for book recommendations that have actually helped you build discipline and follow through with your goals. What's worked for you?',
+    preview: "Looking for book recommendations that have actually helped you build discipline and follow through with your goals. What's worked for you?",
     likes: 42,
     comments: 31
   },
