@@ -200,7 +200,7 @@ const dailyChallenges = [
   {
     id: 'd4',
     title: 'Gratitude Journal',
-    description: description: "Write down three things you're grateful for today to cultivate a positive mindset.",
+    description: "Write down three things you're grateful for today to cultivate a positive mindset.",
     category: 'Mindset',
     xp: 10,
     steps: ['3 items', 'Be specific', 'Feel gratitude']
