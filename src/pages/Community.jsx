@@ -252,7 +252,7 @@ const discussions = [
     category: 'Fitness',
     author: 'Chris',
     date: '1 week ago',
-    preview: 'I work long hours and struggle to eat healthy. Looking for efficient meal prep strategies that don't take up an entire Sunday.',
+    preview: "I work long hours and struggle to eat healthy. Looking for efficient meal prep strategies that don't take up an entire Sunday.",
     likes: 19,
     comments: 22
   }
