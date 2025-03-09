@@ -138,7 +138,7 @@ const resources = [
     title: 'The Power of Discipline',
     category: 'Mindset',
     type: 'Article',
-    content: 'Discipline is the bridge between goals and accomplishment. This resource explores how to build unshakeable discipline in your daily life. Learn practical strategies to overcome procrastination, maintain consistency, and develop the mental fortitude needed to achieve your goals. Discipline isn't about punishment but rather about creating a structure that leads to freedom and achievement.',
+    content: content: "Discipline is the bridge between goals and accomplishment. This resource explores how to build unshakeable discipline in your daily life. Learn practical strategies to overcome procrastination, maintain consistency, and develop the mental fortitude needed to achieve your goals. Discipline isn't about punishment but rather about creating a structure that leads to freedom and achievement.",
     link: '#',
     linkText: 'Read Article'
   },
