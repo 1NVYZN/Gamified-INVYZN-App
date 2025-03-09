@@ -222,7 +222,7 @@ const discussions = [
     category: 'Mindset',
     author: 'Michael',
     date: '2 days ago',
-    preview: 'I've been trying to build a meditation habit for the past month but I keep falling off after a few days. Any tips on how to make it stick?',
+    preview: "I've been trying to build a meditation habit for the past month but I keep falling off after a few days. Any tips on how to make it stick?",
     likes: 24,
     comments: 18
   },
