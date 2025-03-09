@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import { Routes, Route } from 'react-router-dom'
-import Dashboard from './pages/Dashboard'
-import SkillTree from './pages/SkillTree'
-import Challenges from './pages/Challenges'
-import Resources from './pages/Resources'
-import Community from './pages/Community'
-import Landing from './pages/Landing'
-import Layout from './components/Layout'
-import { UserProvider } from './context/UserContext'
+import Dashboard from './pages/Dashboard.jsx'
+import SkillTree from './pages/SkillTree.jsx'
+import Challenges from './pages/Challenges.jsx'
+import Resources from './pages/Resources.jsx'
+import Community from './pages/Community.jsx'
+import Landing from './pages/Landing.jsx'
+import Layout from './components/Layout.jsx'
+import { UserProvider } from './context/UserContext.jsx'
 
 function App() {
   return (
