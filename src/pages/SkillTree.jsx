@@ -107,7 +107,7 @@ function getSkillInfo(skill) {
         {
           id: 'mindset-gratitude',
           title: 'Gratitude Journal',
-          description: 'Write down 3 things you're grateful for today',
+          description: "Write down 3 things you're grateful for today",
           xp: 10
         },
         {
